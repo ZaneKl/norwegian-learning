@@ -1,0 +1,5 @@
+List of goals:
+1. Flash card module
+2. Word form test module
+3. Word order test module
+4. General rule information module
